@@ -1,4 +1,4 @@
-![image](https://github.com/Ogamdo/DocaDoca/assets/91306764/2813f578-4972-4df0-bf26-d8b9ceb1e4e8)<h1>DoCaDoCa</h1>
+
 
 
 중간고사 대체 과제물 : 게임 기획(이동 및 회전, 애니메이션, 네비게이션, UI, 레이캐스트)<br>
@@ -26,7 +26,12 @@
 <hr>
 2023.12.04 구현기능
 
-1.이동 및 회전 <br>
-2.달리는 애니메이션<br>
+1.이동 및 회전 구현. 독특한 기능을 넣어보려다가 잘 안되서 ppt의 코드를 배낌 <br>
+2.달리는 애니메이션. asset에 있던 기본 애니메이션 <br>
 3.시간관리와 코딩능력, 그 외 자원의 부족으로 인해 제 시간 내에 완성하지 못했음. <br>
 4.방학 때에는 전공 복습을 하자...<br>
+
+![image](https://github.com/Ogamdo/DocaDoca/assets/91306764/2813f578-4972-4df0-bf26-d8b9ceb1e4e8)<h1>DoCaDoCa</h1>
+![image](https://github.com/Ogamdo/DocaDoca/assets/91306764/631ecac0-c893-4ee4-bc3d-4adeef560c3b)
+![image](https://github.com/Ogamdo/DocaDoca/assets/91306764/6e1f6e26-619e-4926-b582-007bc5909bd7)
+![image](https://github.com/Ogamdo/DocaDoca/assets/91306764/b388e09f-91e2-487a-8663-b32770291d4e)
