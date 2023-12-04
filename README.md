@@ -32,12 +32,7 @@
 (3)사용자가 특수 구출작전을 펼치는 경험을 하는 것 또한 목표이기에, 웅장한 음악으로 게임의 분위기를 고조시킨다.(오디오 소스 등 사용)<br>
 (4)유니티 에셋 스토어에서 게임 보이스를 다운받아서 플레이어블 캐릭터나 적 캐릭터가 움직일 때마다 오디오 소스가 재생되게 한다. 필요하다면 직접 음성을 녹음하거나, AI 기술 등을 사용한다.<br>
 
-버전관리 : git bash와 github의 public resistory를 이용한다.
-플레이어블 캐릭터(‘탕탕’)는 왼쪽의 Dog knight(Dog Knight PBR Polyart | 3D 동물 | Unity Asset Store)를 사용한다.)
-적 캐릭터는 오른쪽의 Angry log(FREE - Animated Angry Log - Revenge of the Tree | 3D 생물 | Unity Asset Store)를 사용한다
-우호 NPC(‘시로)는 FancyDoll - C000: Little Cat Girl(FancyDoll - C000: Little Cat Girl | 2D 캐릭터 | Unity Asset Store)을 이용한다.
- 음악은 우측의 Orchestral Fantasy Music - REALM Lite(Orchestral Fantasy Music - REALM Lite | 오케스트라 음악 | Unity Asset Store)을 이용한다.
- 그 외에는 더 자료조사와 연구를 하여 보충한다.
+
 ![image](https://github.com/Ogamdo/DocaDoca/assets/91306764/2813f578-4972-4df0-bf26-d8b9ceb1e4e8)<h1>DoCaDoCa</h1>
 ![image](https://github.com/Ogamdo/DocaDoca/assets/91306764/631ecac0-c893-4ee4-bc3d-4adeef560c3b)
 ![image](https://github.com/Ogamdo/DocaDoca/assets/91306764/6e1f6e26-619e-4926-b582-007bc5909bd7)
