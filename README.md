@@ -14,10 +14,10 @@
 4.방학 때에는 전공 복습을 하자...<br>
 
 <h3>참고자료들</h3>
-1.학교 수업 PPT
-2.유니티 인생 교과서
-3.Bingchat
-4.aws code whisper
+1.학교 수업 PPT <br>
+2.유니티 인생 교과서<br>
+3.Bingchat<br>
+4.aws code whisper<br>
 
 
 <hr>
