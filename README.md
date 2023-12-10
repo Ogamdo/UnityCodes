@@ -13,7 +13,6 @@
 (4) 돈 없는 인디 개발자의 정신에 입각하여 일부 에셋들을 직접 제작하고, 많은 부분을 무료 에셋으로 해결한다. 
 
 
-
 <hr>
 2023.12.04 
 <p>구현된기능<Br>
@@ -25,7 +24,8 @@
 3.Co-piot by Ms Bing<br>
 4.AWS code whisper<br>
 
-<details>In English
+In English
+<details>
 1. Genre: It's an FPS genre. Like "Insertion: Sandstorm", if a player asks for support (= skill use) you can get thermal support. <br>
 2. contents <br>
 (1) Use functions such as fraps when shooting. Guns are fired through GetMouseButtonDown, and the playable character moves through the wasd key.<br>
